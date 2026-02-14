@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to mastering various facets of technology. Currently, I’m immersed in studying DSA with CPP, data science, machine learning, software engineering, and more. My commitment to excellence drives me to constantly push my limits and strive for the best outcomes in all my endeavors. With each challenge I tackle and every skill I acquire, I’m forging a path toward becoming a proficient AI engineer ready to make meaningful contributions in this rapidly evolving field.
 
 
-## 🌐 Socials:
+## Socials:
 <p align="left">
 
 <!-- Discord -->
@@ -42,46 +42,113 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 </picture>
 </a>
 
+<!-- GitHub -->
+<a href="https://github.com/IsHa2507" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</picture>
+</a>
+
 </p>
 
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 👩‍💻 Programming Languages  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Programming Languages  
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
+</p>
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Web Development  
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
+<a href="https://threejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/threejs-colored.svg" width="36" height="36" alt="Three.js"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"/></a>
+<a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/></a>
+</p>
 
-### 🧠 CS Fundamentals & Tools  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![DBMS](https://img.shields.io/badge/DBMS-00599C?style=for-the-badge&logo=mysql&logoColor=white)  
-![OOPs](https://img.shields.io/badge/OOPs-007396?style=for-the-badge&logo=java&logoColor=white)
+### CS Fundamentals & Tools  
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/database.png" width="36" height="36" alt="DBMS"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/object-oriented-programming.png" width="36" height="36" alt="OOPs"/></a>
+</p>
 
-### 📊 Data Science Tools  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🛡 Cybersecurity Tools  
-![Wireshark](https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Nmap](https://img.shields.io/badge/nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)  
-![TryHackMe](https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/kali%20linux-268BEB?style=for-the-badge&logo=kalilinux&logoColor=white)  
-![Fortinet](https://img.shields.io/badge/fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)  
-![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+###  Data Science Tools  
+<p align="left">
 
-# 📊 GitHub Stats:
+<!-- Pandas -->
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas"/>
+</a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy"/>
+</a>
+
+<!-- Scikit Learn -->
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit Learn"/>
+</a>
+
+<!-- TensorFlow -->
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"/>
+</a>
+
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://img.icons8.com/color/48/matplotlib.png" width="36" height="36" alt="Matplotlib"/>
+</a>
+
+<!-- Seaborn -->
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://img.icons8.com/color/48/statistics.png" width="36" height="36" alt="Seaborn"/>
+</a>
+
+<!-- OpenCV -->
+<a href="https://opencv.org/" target="_blank">
+<img src="https://img.icons8.com/color/48/opencv.png" width="36" height="36" alt="OpenCV"/>
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg" width="36" height="36" alt="Jupyter Notebook"/>
+</a>
+
+</p>
+
+
+###  Cybersecurity Tools  
+<p align="left">
+<a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/color/48/wireshark.png" width="36" height="36" alt="Wireshark"/></a>
+<a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/network-scanner.png" width="36" height="36" alt="Nmap"/></a>
+<a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/color/48/burp-suite.png" width="36" height="36" alt="Burp Suite"/></a>
+<a href="https://tryhackme.com/" target="_blank"><img src="https://img.icons8.com/color/48/tryhackme.png" width="36" height="36" alt="TryHackMe"/></a>
+<a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/kali-linux.png" width="36" height="36" alt="Kali Linux"/></a>
+<a href="https://www.fortinet.com/" target="_blank"><img src="https://img.icons8.com/color/48/fortinet.png" width="36" height="36" alt="Fortinet"/></a>
+<a href="https://www.cisco.com/" target="_blank"><img src="https://img.icons8.com/color/48/cisco.png" width="36" height="36" alt="Cisco"/></a>
+</p>
+
+
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isha2507&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=isha2507&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isha2507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -89,15 +156,4 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 ---
 [![](https://visitcount.itsvg.in/api?id=isha2507&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @IsHa2507
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-IsHa2507/IsHa2507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
