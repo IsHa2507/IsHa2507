@@ -137,16 +137,6 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 </p>
 
 
-###  Cybersecurity Tools  
-<p align="left">
-<a href="https://www.wireshark.org/" target="_blank"><img src="https://img.icons8.com/color/48/wireshark.png" width="36" height="36" alt="Wireshark"/></a>
-<a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/network-scanner.png" width="36" height="36" alt="Nmap"/></a>
-<a href="https://portswigger.net/burp" target="_blank"><img src="https://img.icons8.com/color/48/burp-suite.png" width="36" height="36" alt="Burp Suite"/></a>
-<a href="https://tryhackme.com/" target="_blank"><img src="https://img.icons8.com/color/48/tryhackme.png" width="36" height="36" alt="TryHackMe"/></a>
-<a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/kali-linux.png" width="36" height="36" alt="Kali Linux"/></a>
-<a href="https://www.fortinet.com/" target="_blank"><img src="https://img.icons8.com/color/48/fortinet.png" width="36" height="36" alt="Fortinet"/></a>
-<a href="https://www.cisco.com/" target="_blank"><img src="https://img.icons8.com/color/48/cisco.png" width="36" height="36" alt="Cisco"/></a>
-</p>
 
 
 #  GitHub Stats:
