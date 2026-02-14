@@ -1,4 +1,5 @@
-# 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isha Verma
+===================================================================================================================================
 As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to mastering various facets of technology. Currently, I’m immersed in studying DSA with CPP, data science, machine learning, software engineering, and more. My commitment to excellence drives me to constantly push my limits and strive for the best outcomes in all my endeavors. With each challenge I tackle and every skill I acquire, I’m forging a path toward becoming a proficient AI engineer ready to make meaningful contributions in this rapidly evolving field.
 
 
