@@ -93,30 +93,21 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 ###  Data Science Tools  
 <p align="left">
 
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas"/>
-</a>
 
-<!-- NumPy -->
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 
-<!-- Scikit Learn -->
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikitlearn-colored.svg" width="36" height="36" alt="Scikit Learn"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+
+
 
 <!-- TensorFlow -->
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"/>
 </a>
 
-<!-- Jupyter -->
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg" width="36" height="36" alt="Jupyter Notebook"/>
-</a>
+
 
 <!-- Matplotlib -->
 <a href="https://matplotlib.org/" target="_blank">
