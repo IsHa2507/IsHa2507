@@ -113,6 +113,11 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow"/>
 </a>
 
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg" width="36" height="36" alt="Jupyter Notebook"/>
+</a>
+
 <!-- Matplotlib -->
 <a href="https://matplotlib.org/" target="_blank">
 <img src="https://img.icons8.com/color/48/matplotlib.png" width="36" height="36" alt="Matplotlib"/>
@@ -128,10 +133,6 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 <img src="https://img.icons8.com/color/48/opencv.png" width="36" height="36" alt="OpenCV"/>
 </a>
 
-<!-- Jupyter -->
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jupyter-colored.svg" width="36" height="36" alt="Jupyter Notebook"/>
-</a>
 
 </p>
 
