@@ -86,7 +86,7 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/database.png" width="36" height="36" alt="DBMS"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/object-oriented-programming.png" width="36" height="36" alt="OOPs"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </p>
 
 
