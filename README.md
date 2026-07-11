@@ -80,6 +80,29 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js"/></a>
 <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/></a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+</a>
+
+
+<a href="https://socket.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/>
+</a>
+</p>
+### Databases
+<p align="left">
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36"/>
+</a>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/>
+
 </p>
 
 ### CS Fundamentals & Tools  
@@ -123,12 +146,45 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 <a href="https://opencv.org/" target="_blank">
 <img src="https://img.icons8.com/color/48/opencv.png" width="36" height="36" alt="OpenCV"/>
 </a>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="YOLOv8"/>
+<img src="https://img.icons8.com/color/48/neural-network.png" width="40" title="Deep Learning"/>
+</p>
 
+### Cloud & Deployment
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank">
+<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40"/>
+</a>
+
+<a href="https://render.com/" target="_blank">
+<img src="https://www.svgrepo.com/show/354557/render.svg" width="40"/>
+</a>
 
 </p>
 
+### AI Agents & LLM Engineering
+<p align="left">
 
+<img src="https://img.icons8.com/color/48/chatgpt.png" width="40" title="LLMs"/>
 
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="AI Agents"/>
+
+<img src="https://img.icons8.com/color/48/workflow.png" width="40" title="MCP"/>
+
+<img src="https://img.icons8.com/color/48/security-checked.png" width="40" title="Guardrails"/>
+
+<img src="https://img.icons8.com/color/48/api-settings.png" width="40" title="Tool Calling"/>
+
+</p>
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isha2507&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
