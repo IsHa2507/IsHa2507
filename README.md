@@ -138,7 +138,7 @@ As a student of CSE AI engineering at IGDTUW, I’m deeply dedicated to masterin
 <img src="https://img.icons8.com/color/48/opencv.png" width="36" height="36" alt="OpenCV"/>
 </a>
 <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="YOLOv8"/>
-<img src="https://img.icons8.com/color/48/neural-network.png" width="40" title="Deep Learning"/>
+
 </p>
 
 ### Cloud & Deployment
